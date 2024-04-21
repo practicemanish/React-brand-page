@@ -6,7 +6,7 @@ const HeroSection = () => {
         <p>YOUR FEET DESERVE THE BEST AND WEE ARE HERE TO HELP YOU WITH OUR SHOES AUR NIKE KA SHOES PAHNOGE TO BAHUT MAJA AAYEGA</p>
         
         <div className="hero-btn">
-            <button className="first-btn">shop now </button>
+            <button className="first-btn">shop here </button>
             <button className="secondary-btn">category</button>
         </div>
         <div className="shopping">
